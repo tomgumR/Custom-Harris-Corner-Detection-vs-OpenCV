@@ -64,6 +64,7 @@ Running the Code
 1. Specify the folder path: pythonCopy code  folder_path = '/content/drive/MyDrive/CV/Question 1'
    
 2. Process the images in the folder: pythonCopy code  process_images_from_folder(folder_path)
+   
   
 Conclusion
 This project demonstrates the implementation of the Harris Corner Detection algorithm from scratch and its comparison with OpenCV's built-in implementation. The visualization helps to understand the differences and effectiveness of both methods in detecting corners in images.
